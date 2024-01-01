@@ -28,6 +28,15 @@
 
 ![](https://eupress.ru/design/logo-new.jpg)
 
+
+### Individuum 
+
+[https://individuum.ru/](https://individuum.ru/)
+
+![](https://a.bmstatic.com/iu/full_logo-b748aeaaec0d89e277b478deb217e7df.svg)
+
+
+
 ### Рупол Классик
 
 [http://ripol.ru/](http://ripol.ru/)
