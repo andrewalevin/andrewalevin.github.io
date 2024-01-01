@@ -102,6 +102,12 @@
 [https://umozrenie.com/?p=3553](https://umozrenie.com/?p=3553)
 
 
+### Подписные издания
+
+[https://www.podpisnie.ru/](https://www.podpisnie.ru/)
+
+![](https://www.podpisnie.ru/local/templates/podpisnieNew/assets/img/main/logo.svg)
+
 ### Умозрение 
 
 [https://umozrenie.com/](https://umozrenie.com/)
