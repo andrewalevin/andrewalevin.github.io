@@ -43,6 +43,10 @@
 ![](https://www.gnosisbooks.ru/local/templates/gnosis/assets/images/logo/logo4.png)
 
 
+### ДАЛЬ. Философский книжный
+
+
+
 ### Умозрение 
 
 [https://umozrenie.com/](https://umozrenie.com/)
