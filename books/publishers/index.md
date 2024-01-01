@@ -51,9 +51,11 @@
 ![](http://ripol.ru/i/logo-ripol.svg)
 
 
-### РХГА
+### РХГА им. Ф.М. Достоевского
 
 [http://irhga.ru/](http://irhga.ru/)
+
+[https://vk.com/irhga](https://vk.com/irhga)
 
 ![](http://irhga.ru/wp-content/uploads/2017/12/reshetka1.jpg)
 
