@@ -68,7 +68,9 @@
 
 [https://www.gnosisbooks.ru/](https://www.gnosisbooks.ru/)
 
-![](https://www.gnosisbooks.ru/local/templates/gnosis/assets/images/logo/logo4.png)
+![](https://www.gnosisbooks.ru/upload/gnozis-logo.png)
+
+
 
 
 ### ДАЛЬ. Философский книжный
