@@ -26,7 +26,11 @@
 
 ![](http://ripol.ru/i/logo-ripol.svg)
 
+### УРСС
 
+[https://urss.ru/](https://urss.ru/)
+
+![](https://urss.ru/design/logo_ru_5.jpg)
 
 # Книжные магазины
 
