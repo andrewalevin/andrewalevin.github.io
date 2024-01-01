@@ -10,6 +10,8 @@
 
 [https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/](https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/)
 
+![](https://www.gnosisbooks.ru/upload/iblock/79b/79b840a4b0cbcf96f12c2a68260c4104.png)
+
 ### Европейского университета издателсьтво
 
 [https://eupress.ru/](https://eupress.ru/)
@@ -32,13 +34,28 @@
 
 
 ### Гнозис
+
 [https://www.gnosisbooks.ru/](https://www.gnosisbooks.ru/)
 
+![](https://www.gnosisbooks.ru/local/templates/gnosis/assets/images/logo/logo4.png)
 
 
 ### Умозрение 
 
 [https://umozrenie.com/](https://umozrenie.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
