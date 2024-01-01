@@ -14,6 +14,14 @@
 
 ![](https://www.gnosisbooks.ru/upload/iblock/79b/79b840a4b0cbcf96f12c2a68260c4104.png)
 
+
+### Все свободны
+
+[https://vse-svobodny.com/](https://vse-svobodny.com/)
+
+![](https://vse-svobodny.com/wp-content/uploads/2022/03/cropped-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-%D0%92%D0%A1-2021-140x126.jpg)
+
+
 ### Европейского университета издателсьтво
 
 [https://eupress.ru/](https://eupress.ru/)
