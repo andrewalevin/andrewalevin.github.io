@@ -106,6 +106,10 @@
 
 [https://www.podpisnie.ru/](https://www.podpisnie.ru/)
 
+[https://t.me/izdaniya](https://t.me/izdaniya)
+
+[https://vk.com/izdaniya](https://vk.com/izdaniya)
+
 ![](https://www.podpisnie.ru/local/templates/podpisnieNew/assets/img/main/logo.svg)
 
 ### Умозрение 
