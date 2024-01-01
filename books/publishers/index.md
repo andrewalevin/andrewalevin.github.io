@@ -10,7 +10,11 @@
 
 [https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/](https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/)
 
+### Европейского университета издателсьтво
 
+[https://eupress.ru/](https://eupress.ru/)
+
+![](https://eupress.ru/design/logo-new.jpg)
 
 ### Рупол Классик
 
