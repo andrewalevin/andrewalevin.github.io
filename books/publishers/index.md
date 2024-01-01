@@ -1,6 +1,13 @@
 
 # 📕📇 Прекрасные издательства
 
+### Ad Marginem
+
+[https://admarginem.ru/](https://admarginem.ru/)
+
+![](https://admarginem.ru/wp-content/uploads/2019/04/logo-2x.png)
+
+
 ### Алетейа
 
 [https://aletheia.spb.ru/](https://aletheia.spb.ru/)
