@@ -24,7 +24,7 @@
 
 ### БММ
 
-[(https://bmm.ru/](https://bmm.ru/)
+[https://bmm.ru/](https://bmm.ru/)
 
 
 ### Гнозис
