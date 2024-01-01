@@ -50,11 +50,33 @@
 
 ![](http://ripol.ru/i/logo-ripol.svg)
 
+
+### РХГА
+
+[http://irhga.ru/](http://irhga.ru/)
+
+![](http://irhga.ru/wp-content/uploads/2017/12/reshetka1.jpg)
+
+
 ### УРСС
 
 [https://urss.ru/](https://urss.ru/)
 
 ![](https://urss.ru/design/logo_ru_5.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Книжные магазины
 
