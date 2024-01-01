@@ -6,6 +6,8 @@
 [https://aletheia.spb.ru/](https://aletheia.spb.ru/)
 
 
+![](https://static.tildacdn.com/tild3236-6235-4434-a339-663062653038/Logo_2_bel__.png)
+
 ### Владимир Даль
 
 [https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/](https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/)
@@ -22,7 +24,7 @@
 
 [http://ripol.ru/](http://ripol.ru/)
 
-
+![](http://ripol.ru/i/logo-ripol.svg)
 
 
 
