@@ -34,6 +34,7 @@
 
 [https://bmm.ru/](https://bmm.ru/)
 
+![](https://bmm.ru/images/logo.svg)
 
 ### Гнозис
 
@@ -46,7 +47,7 @@
 
 [https://umozrenie.com/](https://umozrenie.com/)
 
-
+![](https://umozrenie.com/wp-content/uploads/2019/03/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B04-768x145.png)
 
 
 
