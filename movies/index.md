@@ -21,4 +21,4 @@
 
 [https://www.imdb.com/title/tt26771826/](https://www.imdb.com/title/tt26771826/)
 
-![]()
+![images/murder-is-easy.png](images/murder-is-easy.png)
