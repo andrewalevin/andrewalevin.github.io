@@ -4,7 +4,7 @@ Andrew A. Levin
 
 ### 📕📇 Издательства и Книжные магазины
 
-[/books/publishers/](/books/publishers/)
+[books/publishers/](books/publishers/)
 
 
 ## 🎥 Movies and TV Series
