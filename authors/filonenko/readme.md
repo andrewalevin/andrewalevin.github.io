@@ -1,4 +1,4 @@
-![ilonenko.jpg](ilonenko.jpg)
+![filonenko.jpg](filonenko.jpg)
 
 # Александр Филоненко
 
