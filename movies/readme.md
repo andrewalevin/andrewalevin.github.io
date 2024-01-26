@@ -9,6 +9,11 @@
 
 ## The Zone of Interest (film)
 
+The Zone of Interest is a 2023 historical drama film written and directed by Jonathan Glazer, loosely based on the 2014 novel by Martin Amis. It was a co-production between the United States, the United Kingdom and Poland. It stars Christian Friedel as the German Nazi commandant Rudolf Höss, who strives to build a dream life with his wife, Hedwig (Sandra Hüller), in a new home next to the German Auschwitz concentration camp.[3]
+
+The Zone of Interest premiered at the 76th Cannes Film Festival on 19 May 2023 to acclaim, winning both the Grand Prix and FIPRESCI Prize. It was named Best Film by the Los Angeles Film Critics Association,[7] selected as one of the top-five international films of 2023 by the National Board of Review, and chosen as the British entry for the Best International Feature Film at the 96th Academy Awards.[8] It was also nominated for three Golden Globes Awards, including Best Motion Picture – Drama, and nine BAFTAs, including Outstanding British Film. The film was nominated for five Academy Awards, including Best Picture, Best Director and Best Adapted Screenplay for Glazer and Best International Feature Film.
+
+
 [https://en.wikipedia.org/wiki/The_Zone_of_Interest_(film)](https://en.wikipedia.org/wiki/The_Zone_of_Interest_(film))
 
 [https://a24films.com/films/the-zone-of-interest](https://a24films.com/films/the-zone-of-interest)
