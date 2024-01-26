@@ -27,4 +27,4 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 ## 📐 Layout
 
-[/layout/](/layout/)
+[layout/](layout/)
