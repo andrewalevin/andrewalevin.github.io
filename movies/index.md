@@ -5,7 +5,19 @@
 # 2024 01 Январь
 
 
+## True Detective (season 4)
 
+When the long winter night falls in Ennis, Alaska, the eight men who operate the Tsalal Arctic Research Station vanish without a trace. To solve the case, Detectives Liz Danvers (Jodie Foster) and Evangeline Navarro (Kali Reis) will have to confront the darkness they carry in themselves, and dig into the haunted truths that lie buried under the eternal ice.
+
+Credits: Showrunner, writer, director, executive producer, Issa López; star and executive producer, Jodie Foster. Executive Producers: Barry Jenkins, Adele Romanski, and Mark Ceryak for PASTEL; Mari Jo Winkler; Chris Mundy; Alan Page Arriaga; Steve Golin; Richard Brown; Woody Harrelson; Matthew McConaughey; Cary Joji Fukunaga; Nic Pizzolatto. Producers: Princess Daazhraii Johnson; Cathy Tagnak Rexford; Sam Breckman.
+
+
+[https://en.wikipedia.org/wiki/True_Detective_(season_4)](https://en.wikipedia.org/wiki/True_Detective_(season_4))
+
+[https://www.hbo.com/true-detective](https://www.hbo.com/true-detective)
+
+
+![images/24-01-True_Detective_season_4.png](images/24-01-True_Detective_season_4.png)
 
 
 ## Mr Bates vs The Post Office
