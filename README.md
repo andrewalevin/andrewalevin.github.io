@@ -23,4 +23,4 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 ## 📐 Layout
 
-[/layout/grid/](/layout/grid/)
+[layout/](layout/)
