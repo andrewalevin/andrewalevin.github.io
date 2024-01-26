@@ -25,7 +25,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 [authors/](authors/)
 
 
-## 📐 Layout
+## 📐 Layout Pages
 
 [layout/](layout/)
 
