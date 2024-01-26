@@ -1,4 +1,4 @@
-[andrewalevin.github.io/movies/](https://andrewalevin.github.io/movies/)
+![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/1da3675f-5d47-4348-b9a9-0f4aacbb51ac)[andrewalevin.github.io/movies/](https://andrewalevin.github.io/movies/)
 
 [github.com/andrewalevin/andrewalevin.github.io/edit/main/movies/index.md](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/movies/index.md)
 
@@ -37,6 +37,52 @@ Credits: Showrunner, writer, director, executive producer, Issa López; star and
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WkL7cpG2UhE?si=eU7snLNqXKieGx-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+
+
+## Шпионский залив
+
+
+![i/24-01-shpionskij_zaliv.jpg](i/24-01-shpionskij_zaliv.jpg)
+
+
+
+
+## Месье Спейд 1 сезон
+
+
+![i/24-01-mese_spejd.jpg](i/24-01-mese_spejd.jpg)
+
+
+## Безмолвный свидетель 27 сезон
+
+![i/24-01-bezmolvnyj_svidetel.jpg](i/24-01-bezmolvnyj_svidetel.jpg)
+
+
+
+## Отец Браун 11 сезон
+
+![2401-otec_braun.jpg](i/2401-otec_braun.jpg)
+
+
+
+
+
+## Медленные лошади 3 сезон
+
+![2401-medlennye_loshadi.jpg](i/2401-medlennye_loshadi.jpg)
+
+
+
+## Vera
+
+![](i/2401-vera.jpg)
+
+
+
+
+
+
+
 ## Криминальное прошлое - Criminal Record / The Challenge
 
 В лондонскую полицию поступает анонимный телефонный звонок, где напуганный женский голос сообщает, что ее бойфренд много лет назад совершил убийство своей бывшей девушки, но вместо него наказание отбывает совершенно другой мужчина. За расследование берется молодой детектив Джун Ленкер, которая проверяет списки заключенных и выясняет, что речь идет об Эрроле Матисе. Женщина стремится докопаться до правды, что приводит к противостоянию с опытным детективом Дэниелом Хегарти, который более десяти лет назад отвечал за расследование того убийства. 
@@ -60,6 +106,8 @@ http://kinopub.me/series/drama/47405-rassledovanie-sestry-bonifacii-2022.html
 
 
 ![i/24-01-sister-boniface-mysteries.jpg](i/24-01-sister-boniface-mysteries.jpg)
+
+![2401-rassledovanija_sestry_bonifacii.jpg](i/2401-rassledovanija_sestry_bonifacii.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rw8Reh_sR8o?si=NJ8-A7H4WseM1ymZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
