@@ -5,6 +5,21 @@
 # 2024 01 Январь
 
 
+## The Zone of Interest (film)
+
+[https://en.wikipedia.org/wiki/The_Zone_of_Interest_(film)](https://en.wikipedia.org/wiki/The_Zone_of_Interest_(film))
+
+[https://a24films.com/films/the-zone-of-interest](https://a24films.com/films/the-zone-of-interest)
+
+![images/24-01-The-Zone-of-Interest.jpg](images/24-01-The-Zone-of-Interest.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFNtVaAuVYY?si=bYfV2ZGDHegrbjjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
 ## True Detective (season 4)
 
 When the long winter night falls in Ennis, Alaska, the eight men who operate the Tsalal Arctic Research Station vanish without a trace. To solve the case, Detectives Liz Danvers (Jodie Foster) and Evangeline Navarro (Kali Reis) will have to confront the darkness they carry in themselves, and dig into the haunted truths that lie buried under the eternal ice.
