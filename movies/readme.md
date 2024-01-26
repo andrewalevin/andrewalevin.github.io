@@ -1,4 +1,6 @@
-![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/1da3675f-5d47-4348-b9a9-0f4aacbb51ac)[andrewalevin.github.io/movies/](https://andrewalevin.github.io/movies/)
+
+
+[andrewalevin.github.io/movies/](https://andrewalevin.github.io/movies/)
 
 [github.com/andrewalevin/andrewalevin.github.io/edit/main/movies/index.md](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/movies/index.md)
 
