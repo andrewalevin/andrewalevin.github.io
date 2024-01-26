@@ -20,6 +20,9 @@ The Zone of Interest premiered at the 76th Cannes Film Festival on 19 May 2023 t
 
 ![i/24-01-The-Zone-of-Interest.jpg](i/24-01-The-Zone-of-Interest.jpg)
 
+https://upload.wikimedia.org/wikipedia/en/2/24/The_Zone_of_Interest_film_poster.jpg![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/e6d53a71-d4ed-41da-9710-301550003217)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GFNtVaAuVYY?si=bYfV2ZGDHegrbjjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
