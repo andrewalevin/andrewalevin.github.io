@@ -19,6 +19,8 @@ Credits: Showrunner, writer, director, executive producer, Issa López; star and
 
 ![images/24-01-True_Detective_season_4.png](images/24-01-True_Detective_season_4.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WkL7cpG2UhE?si=eU7snLNqXKieGx-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Mr Bates vs The Post Office
 
