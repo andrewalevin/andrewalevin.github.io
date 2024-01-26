@@ -29,4 +29,4 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 [layout/](layout/)
 
-[github.com/andrewalevin/layout](github.com/andrewalevin/layout)
+[https://github.com/andrewalevin/layout](github.com/andrewalevin/layout)
