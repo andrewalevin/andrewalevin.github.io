@@ -50,7 +50,7 @@ Credits: Showrunner, writer, director, executive producer, Issa López; star and
 ![i/24-01-Criminal-Record-The-Challenge.jpg](i/24-01-Criminal-Record-The-Challenge.jpg)
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_sohSQWHvg?si=tDC87XkwDq73lVUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
