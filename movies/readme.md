@@ -59,7 +59,7 @@ Credits: Showrunner, writer, director, executive producer, Issa López; star and
 http://kinopub.me/series/drama/47405-rassledovanie-sestry-bonifacii-2022.html
 
 
-![iamges/24-01-sister-boniface-mysteries.jpg]((iamges/24-01-sister-boniface-mysteries.jpg))
+![i/24-01-sister-boniface-mysteries.jpg]((i/24-01-sister-boniface-mysteries.jpg))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rw8Reh_sR8o?si=NJ8-A7H4WseM1ymZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
