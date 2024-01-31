@@ -11,21 +11,21 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 ### 📚 Мои Книги
 
-[/books/](/books/)
+- [/books/](/books/)
 
 
 ### 📗🛍 Книжные магазины
 
-[bookstores](bookstores)
+- [bookstores](bookstores)
 
 ### 📖📇 Книжные Издательства
 
-[publishers/](publishers/)
+- [publishers/](publishers/)
 
 
 ### 🎥 Movies and TV Series
 
-[movies/](movies/)
+- [movies/](movies/)
 
 
 ### Авторы
