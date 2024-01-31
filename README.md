@@ -1,4 +1,4 @@
-🚀 [Home](https://andrewalevin.github.io/) 🏰 [Repository](https://github.com/andrewalevin/andrewalevin.github.io) 🔨 [Edit page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/README.md)
+ [🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/README.md)
 
 # 👋 andrewalevin.github.io
 Andrew A. Levin
