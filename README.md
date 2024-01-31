@@ -20,7 +20,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 ### 📖📇 Книжные Издательства
 
-- [publishers/](publishers/)
+- [publishers](publishers)
 
 
 ### 🎥 Movies and TV Series
