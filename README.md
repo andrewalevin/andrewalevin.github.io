@@ -9,18 +9,26 @@ Andrew A. Levin
 
 Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
+### 📚 Мои Книги
 
-## 📕📇 Издательства и Книжные магазины
-
-[books/publishers/](books/publishers/)
+[/books/](/books/)
 
 
-## 🎥 Movies and TV Series
+### 📗🛍 Книжные магазины
+
+[bookstores](bookstores)
+
+### 📖📇 Книжные Издательства
+
+[publishers/](publishers/)
+
+
+### 🎥 Movies and TV Series
 
 [movies/](movies/)
 
 
-## Авторы
+### Авторы
 
 [authors/](authors/)
 
