@@ -1,6 +1,6 @@
-🌃🚀 [Home](https://andrewalevin.github.io/)
+🚀 [Home](https://andrewalevin.github.io/)
 
-🏗 [Repository](https://github.com/andrewalevin/andrewalevin.github.io)
+🏰 [Repository](https://github.com/andrewalevin/andrewalevin.github.io)
 
 🔨 [Edit page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/README.md)
 
