@@ -82,6 +82,37 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uC1J7G5AJB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+### Миро-Творчество (Александр Филоненко)
+
+1
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w-BidNpwh5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+2
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/768-nEJV4lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+3
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSbY6Ij9q14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+4
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tFkpAa6I1EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+5
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N4vB92hIwjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+6
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RsWAotdMhTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+7
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KzrNOY3b7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
 
 
 
