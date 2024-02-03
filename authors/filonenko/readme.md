@@ -3,6 +3,10 @@
 </style>
 
 
+ [🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/authors/filonenko/readme.md)
+
+
+
 ![filonenko.jpg](filonenko.jpg)
 
 # Александр Филоненко
@@ -51,6 +55,9 @@
 
 8
 
+
+
+### Встреча и преодоление насилия (А. Филоненко)
 
 
 
