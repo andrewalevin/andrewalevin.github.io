@@ -59,6 +59,28 @@
 
 ### Встреча и преодоление насилия (А. Филоненко)
 
+1
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FJhej-RF-4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+2
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s0F1NKzDvPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+3
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pvt3gvsbiVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+4
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9uMdISOskc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+5
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E0dOjAW1meg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+6
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uC1J7G5AJB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 
