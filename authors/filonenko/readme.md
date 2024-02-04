@@ -117,13 +117,6 @@
 
 
 
-
-
-
-
-
-
-
 ### Миро-Творчество (Александр Филоненко)
 
 <div class="row g-4">
@@ -170,6 +163,7 @@
 	
 	</div>
 </div>
+
 
 
 
@@ -229,6 +223,7 @@
 https://www.youtube.com/watch?v=hydahbVpRg0&list=PL4tEj-67A02M07gVN8ifNVoxYZMIuER-U&index=1&pp=iAQB
 
 https://www.youtube.com/watch?v=HgLOteEY3vw&list=PL4tEj-67A02M07gVN8ifNVoxYZMIuER-U&index=2&pp=iAQB
+
 
 
 
@@ -361,6 +356,91 @@ https://www.youtube.com/watch?v=HgLOteEY3vw&list=PL4tEj-67A02M07gVN8ifNVoxYZMIuE
 ### Пиноккио. Александр Филоненко
 
 [https://www.youtube.com/playlist?list=PL4tEj-67A02NLQKqYNw_Rdr2YpBoFZFI7](https://www.youtube.com/playlist?list=PL4tEj-67A02NLQKqYNw_Rdr2YpBoFZFI7)
+
+
+<div class="row g-4">
+	<div class="col-12 col-md-6 col-lg-4">
+
+0
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ErNBeDutHR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+1
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hOiSju1rBiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+2
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dqssEdird_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+3
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uSX-xB0bZaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+4
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HnbfEQCYGfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+5
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4JbXz7jaXD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+6
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6cXLLsjn_00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+7
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/heiRwK4Tbiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+8
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B0qz4OlJIAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+9
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UC6EEF-15n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+10
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AzZ_U7Gldvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+11
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qBCqnpVh-Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+ 	<div class="col-12 col-md-6 col-lg-4">
+
+12
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fmieRN3FywI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	
+	</div>
+</div>
+
+
+
 
 
 
