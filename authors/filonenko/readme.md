@@ -15,16 +15,19 @@
 Александр Филоненко
 
 
-![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/5bb4f1bf-6dd8-46e1-a830-f0a6db4c57b2)
-
-
 - Open Academy of Culture
 
 - Белый Кофе / Біла Кава
 
-  
+
+
+
+![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/5bb4f1bf-6dd8-46e1-a830-f0a6db4c57b2)  
 
 ## Белый Кофе / Біла Кава
+
+
+
 
 
 ### Антропология литературы
@@ -698,9 +701,155 @@ https://www.youtube.com/watch?v=NdvQBGaTvi8&list=PL4tEj-67A02NcOXfr431WecvErmT4T
 
 
 
-## Open Academy of Culture
+
 
 ![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/14464b48-d4ef-4780-acdf-69538a0d822d)
+
+## Open Academy of Culture
+
+
+### Личностное развитие | Ориентиры, компас
+
+
+https://www.youtube.com/watch?v=O0I_xdlnFoQ&list=PLe29LLekHxZof4CLHky3Gl1xuZhvqITO8&index=1&pp=iAQB
+
+https://www.youtube.com/watch?v=do3UZkwBfjA&list=PLe29LLekHxZof4CLHky3Gl1xuZhvqITO8&index=2&pp=iAQB
+
+https://www.youtube.com/watch?v=jvV88wVM1qc&list=PLe29LLekHxZof4CLHky3Gl1xuZhvqITO8&index=3&pp=iAQB
+
+https://www.youtube.com/watch?v=KhcKsX_2Cao&list=PLe29LLekHxZof4CLHky3Gl1xuZhvqITO8&index=4&pp=iAQB
+
+https://www.youtube.com/watch?v=an4VGNBcZxo&list=PLe29LLekHxZof4CLHky3Gl1xuZhvqITO8&index=5&pp=iAQB
+
+https://www.youtube.com/watch?v=Z8EMttKs8E8&list=PLe29LLekHxZof4CLHky3Gl1xuZhvqITO8&index=6&pp=iAQB
+
+https://www.youtube.com/watch?v=XoBJVYwYFKE&list=PLe29LLekHxZof4CLHky3Gl1xuZhvqITO8&index=7&pp=iAQB
+
+https://www.youtube.com/watch?v=60BkDQnhAjc&list=PLe29LLekHxZof4CLHky3Gl1xuZhvqITO8&index=8&pp=iAQB
+
+
+
+### Уикенд с Данте. Чистилище
+
+[https://www.youtube.com/playlist?list=PLe29LLekHxZpdyoAf9cBrry7HqfFEjd3Y](https://www.youtube.com/playlist?list=PLe29LLekHxZpdyoAf9cBrry7HqfFEjd3Y)
+
+https://www.youtube.com/watch?v=M2XMJVgPbmQ&list=PLe29LLekHxZpdyoAf9cBrry7HqfFEjd3Y&index=1&pp=iAQB
+
+https://www.youtube.com/watch?v=LDVd8WDSmjM&list=PLe29LLekHxZpdyoAf9cBrry7HqfFEjd3Y&index=2&pp=iAQB
+
+https://www.youtube.com/watch?v=J0kvXAPxsE4&list=PLe29LLekHxZpdyoAf9cBrry7HqfFEjd3Y&index=3&pp=iAQB
+
+https://www.youtube.com/watch?v=IlWpk3kk_EU&list=PLe29LLekHxZpdyoAf9cBrry7HqfFEjd3Y&index=4&pp=iAQB
+
+
+### Уикенд с Данте. Ад
+
+[https://www.youtube.com/playlist?list=PLe29LLekHxZqK2foYQUcRR1k5MZ6TM5M8](https://www.youtube.com/playlist?list=PLe29LLekHxZqK2foYQUcRR1k5MZ6TM5M8)
+
+https://www.youtube.com/watch?v=ibB29GWBntM&list=PLe29LLekHxZqK2foYQUcRR1k5MZ6TM5M8&index=1&pp=iAQB
+
+https://www.youtube.com/watch?v=vbMOnVxtZ24&list=PLe29LLekHxZqK2foYQUcRR1k5MZ6TM5M8&index=2&t=2459s&pp=iAQB
+
+https://www.youtube.com/watch?v=UsYLng9G1sw&list=PLe29LLekHxZqK2foYQUcRR1k5MZ6TM5M8&index=3&pp=iAQB
+
+https://www.youtube.com/watch?v=J-g6Wpaq2wI&list=PLe29LLekHxZqK2foYQUcRR1k5MZ6TM5M8&index=4&pp=iAQB
+
+https://www.youtube.com/watch?v=oo1Q62S1ZFk&list=PLe29LLekHxZqK2foYQUcRR1k5MZ6TM5M8&index=5&pp=iAQB
+
+
+
+### Лектор Александр Филоненко
+
+[https://www.youtube.com/playlist?list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL](https://www.youtube.com/playlist?list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL)
+
+https://www.youtube.com/watch?v=ibB29GWBntM&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=1&pp=iAQB
+
+https://www.youtube.com/watch?v=vbMOnVxtZ24&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=2&t=2459s&pp=iAQB
+
+https://www.youtube.com/watch?v=UsYLng9G1sw&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=3&pp=iAQB
+
+https://www.youtube.com/watch?v=J-g6Wpaq2wI&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=4&pp=iAQB
+
+https://www.youtube.com/watch?v=oo1Q62S1ZFk&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=5&pp=iAQB
+
+https://www.youtube.com/watch?v=M2XMJVgPbmQ&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=6&pp=iAQB
+
+https://www.youtube.com/watch?v=LDVd8WDSmjM&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=7&pp=iAQB
+
+https://www.youtube.com/watch?v=J0kvXAPxsE4&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=8&pp=iAQB
+
+https://www.youtube.com/watch?v=IlWpk3kk_EU&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=9&pp=iAQB
+
+https://www.youtube.com/watch?v=8sobag0W8UI&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=10&pp=iAQB
+
+https://www.youtube.com/watch?v=4LHpi2UzyH4&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=11&pp=iAQB
+
+https://www.youtube.com/watch?v=O0I_xdlnFoQ&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=12&pp=iAQB
+
+https://www.youtube.com/watch?v=do3UZkwBfjA&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=13&pp=iAQB
+
+https://www.youtube.com/watch?v=XRQtCsrYEQc&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=14&pp=iAQB
+
+https://www.youtube.com/watch?v=-C9lQJWkznI&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=15&pp=iAQB
+
+https://www.youtube.com/watch?v=sCihkKgi2Us&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=16&pp=iAQB
+
+https://www.youtube.com/watch?v=g6qTg0JEPEY&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=17&pp=iAQB
+
+https://www.youtube.com/watch?v=jvV88wVM1qc&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=18&pp=iAQB
+
+https://www.youtube.com/watch?v=KhcKsX_2Cao&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=19&pp=iAQB
+
+https://www.youtube.com/watch?v=an4VGNBcZxo&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=20&pp=iAQB
+
+https://www.youtube.com/watch?v=Z8EMttKs8E8&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=21&pp=iAQB
+
+https://www.youtube.com/watch?v=XoBJVYwYFKE&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=22&pp=iAQB
+
+https://www.youtube.com/watch?v=60BkDQnhAjc&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=23&pp=iAQB
+
+https://www.youtube.com/watch?v=Z7ElKP_WEjA&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=24&pp=iAQB
+
+https://www.youtube.com/watch?v=BH2llegpTPc&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=25&t=69s&pp=iAQB
+
+https://www.youtube.com/watch?v=UdQlebBPDYo&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=26&pp=iAQB
+
+https://www.youtube.com/watch?v=KZhefV7V4tk&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=27&pp=iAQB
+
+https://www.youtube.com/watch?v=wtX86uIueTk&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=28&pp=iAQB
+
+https://www.youtube.com/watch?v=7nWsEdp4S9Q&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=29&t=4s&pp=iAQB
+
+https://www.youtube.com/watch?v=r_yqE_HZDOg&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=30&pp=iAQB
+
+https://www.youtube.com/watch?v=IFQAfa-PtTI&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=31&pp=iAQB
+
+https://www.youtube.com/watch?v=I1iI29MzMdQ&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=32&pp=iAQB
+
+https://www.youtube.com/watch?v=UGk14CM2H1E&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=33&pp=iAQB
+
+https://www.youtube.com/watch?v=F9tqBVWrQdo&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=34&pp=iAQB
+
+https://www.youtube.com/watch?v=IbTzV31BNXg&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=35&pp=iAQB
+
+https://www.youtube.com/watch?v=Th4WJ5hz_5U&list=PLe29LLekHxZq13NxWbxarEudCDfa7pxYL&index=36&pp=iAQB
+
+
+
+
+
+
+
+
+
+
+### Лектор Александр Филоненко
+
+
+
+
+
+
 
 
 
