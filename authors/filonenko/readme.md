@@ -17,6 +17,10 @@
 
 ![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/5bb4f1bf-6dd8-46e1-a830-f0a6db4c57b2)
 
+
+## Open Academy of Culture
+
+
 ## Белый Кофе / Біла Кава
 
 
@@ -685,6 +689,15 @@ https://www.youtube.com/watch?v=NdvQBGaTvi8&list=PL4tEj-67A02NcOXfr431WecvErmT4T
 ### Сковорода. Филоненко Александр
 
 [https://www.youtube.com/playlist?list=PL4tEj-67A02O3jSA4Wn7_H5uVuLa29b4z](https://www.youtube.com/playlist?list=PL4tEj-67A02O3jSA4Wn7_H5uVuLa29b4z)
+
+
+
+
+
+
+## Open Academy of Culture
+
+![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/14464b48-d4ef-4780-acdf-69538a0d822d)
 
 
 
