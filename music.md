@@ -14,6 +14,29 @@
 ## 2024
 
 
+### March 08
+
+https://www.youtube.com/watch?v=
+
+<div class="row g-4">
+	<div class="col-12 col-md-6 col-lg-4">
+1
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aGSKrC7dGcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+	</div>
+	<div class="col-12 col-md-6 col-lg-4">
+2
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+	</div>
+	<div class="col-12 col-md-6 col-lg-4">
+3
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ - " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+	</div>
+</div>
+
+
 ### March 07
 
 https://www.youtube.com/watch?v=
