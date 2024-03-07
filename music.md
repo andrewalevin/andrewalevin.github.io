@@ -16,8 +16,6 @@
 
 ### March 08
 
-https://www.youtube.com/watch?v=
-
 <div class="row g-4">
 	<div class="col-12 col-md-6 col-lg-4">
 1
