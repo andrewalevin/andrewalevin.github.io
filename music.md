@@ -20,7 +20,7 @@
 
 [shortcut]
 
-https://www.youtube.com/watch?v=aGSKrC7dGcY
+https://www.youtube.com/watch?v=aGSKrC7dGcY Depeche Mode - Enjoy The Silence (Official Video)
 
 [/shortcut]
 
