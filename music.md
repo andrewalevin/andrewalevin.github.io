@@ -2,6 +2,7 @@
 	@import url("/utils/css/bootstrap-grid.css");
 	@import url("/utils/css/iframe-youtube.css");
 </style>
+<script src="/shortcutsjs/shortcutsjs.js" defer></script>
 
 
  [🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/music.md)
@@ -9,6 +10,75 @@
 
 
 # 🎸 Music
+
+## 2024
+
+### March08
+
+[shortcut]
+
+https://www.youtube.com/watch?v=aGSKrC7dGcY
+
+[/shortcut]
+
+
+### March07
+
+[shortcut]
+
+https://www.youtube.com/watch?v=ru1LC9lW20Q
+
+https://www.youtube.com/watch?v=FTQbiNvZqaY
+
+https://www.youtube.com/watch?v=XlTCDGBedgU
+
+[/shortcut]
+	
+
+
+### March06
+
+[shortcut]
+
+https://www.youtube.com/watch?v=IteHHGUy73E
+
+https://www.youtube.com/watch?v=Uk1-NT91llM
+
+https://www.youtube.com/watch?v=IYXmtgFxep4
+
+https://www.youtube.com/watch?v=TUJmSgViGoM
+
+https://www.youtube.com/watch?v=XZpGMaLB_Ww
+
+https://www.youtube.com/watch?v=wdS-jpFgRo4
+
+https://www.youtube.com/watch?v=nGdFHJXciAQ
+
+https://www.youtube.com/watch?v=kn1gcjuhlhg
+
+https://www.youtube.com/watch?v=5kfPCxXZPdA
+
+https://www.youtube.com/watch?v=od5M5g42SSs
+
+https://www.youtube.com/watch?v=kn1gcjuhlhg
+
+https://www.youtube.com/watch?v=Lli99OmkPwM
+
+https://www.youtube.com/watch?v=cO2LVCezcug
+
+https://www.youtube.com/watch?v=gdwvaGluY3k
+
+https://www.youtube.com/watch?v=gdwvaGluY3k
+
+https://www.youtube.com/watch?v=fGvTJ583xzQ
+	
+https://www.youtube.com/watch?v=ftpL1YAO1v4
+	
+[/shortcut]
+
+
+
+# ==================
 
 
 ## 2024
