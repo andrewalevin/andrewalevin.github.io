@@ -48,14 +48,14 @@ https://music.yandex.ru/album/817921/track/7820302
 [shortcut]
 
 https://www.youtube.com/watch?v=ru1LC9lW20Q  
-Ryan Gosling - I'm Just Ken Exclusive (From Barbie The Album) [Official]
+Ryan Gosling - I'm Just Ken Exclusive
 
 https://www.youtube.com/watch?v=FTQbiNvZqaY  
-Toto - Africa (Official HD Video)  
+Toto - Africa    
 https://music.yandex.ru/album/16899660/track/628706
 
 https://www.youtube.com/watch?v=XlTCDGBedgU  
-АХ – Инженер (Official Music Video)  
+АХ – Инженер  
 https://music.yandex.ru/album/24003695/track/108682810
 
 [/shortcut]
@@ -67,7 +67,7 @@ https://music.yandex.ru/album/24003695/track/108682810
 [shortcut]
 
 https://www.youtube.com/watch?v=IteHHGUy73E  
-Би-2 — Я двигаюсь дальше (2023)  
+Би-2 — Я двигаюсь дальше  
 https://music.yandex.ru/album/27254923/track/117099894
 
 https://www.youtube.com/watch?v=Uk1-NT91llM  
@@ -86,7 +86,7 @@ https://music.yandex.ru/album/3708820/track/14574241
 https://music.yandex.ru/album/29346204/track/121783296
 
 https://www.youtube.com/watch?v=XZpGMaLB_Ww  
-Linkin Park - Soldiers (2023) Music Video
+Linkin Park - Soldiers  
 
 https://www.youtube.com/watch?v=wdS-jpFgRo4  
 The Police - Every Breath You Take  
@@ -117,7 +117,7 @@ ETC
 [shortcut]
 
 https://www.youtube.com/watch?v=gdwvaGluY3k  
-Евгений Дога.Вальс.Мой ласковый и нежный зверь.  
+Евгений Дога.Вальс. Мой ласковый и нежный зверь.  
 https://music.yandex.ru/album/11599812/track/69373009  
 https://music.yandex.ru/album/12133299/track/21719115
 
@@ -158,9 +158,6 @@ https://music.yandex.ru/album/8895370/track/58540937
 https://www.youtube.com/watch?v=kn1gcjuhlhg  
 HAUSER - Adagio (Albinoni)  
 https://music.yandex.ru/album/118436/track/1045874
-
-https://www.youtube.com/watch?v=kn1gcjuhlhg  
-HAUSER - Adagio (Albinoni)
 
 [/shortcut]
 
