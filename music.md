@@ -16,7 +16,7 @@
 
 - [2024](#2024)
 - [2023](#2023)
-- [На заре]()
+- [На заре](#na-zare)
 - [Мой ласковый и нежный зверь](#waltz)
 - [Adagio](#adagio)
 
@@ -109,9 +109,10 @@ https://music.yandex.ru/album/4766/track/57730
 ETC
 
 
-# Мой ласковый и нежный зверь
 
 <div id="waltz"></div>
+
+# Мой ласковый и нежный зверь
 
 [shortcut]
 
@@ -135,6 +136,9 @@ Waltzes
 [/shortcut]
 
 
+
+<div id="na-zare"></div>
+
 # На заре
 
 [shortcut]
@@ -144,6 +148,7 @@ https://www.youtube.com/watch?v=5kfPCxXZPdA
 https://music.yandex.ru/album/8895370/track/58540937
 
 [/shortcut]
+
 
 
 # Adagio
