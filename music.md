@@ -14,6 +14,9 @@
 
 # 🎸 Music
 
+- [2024](#2024)
+- [2023](#2023)
+
 # 2024
 
 [https://music.yandex.com/album/27254923/track/117099894](https://music.yandex.com/album/27254923/track/117099894)
