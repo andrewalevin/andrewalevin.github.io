@@ -25,7 +25,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 - [movies/](movies/)
 
-### 🎷 Music
+### 🎸 Music
 
 - [music](music)
 
