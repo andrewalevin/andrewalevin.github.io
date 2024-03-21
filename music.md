@@ -16,6 +16,8 @@
 
 - [2024](#2024)
 - [2023](#2023)
+- [На заре]()
+- [Мой ласковый и нежный зверь. Вальс]()
 
 # 2024
 
@@ -26,7 +28,9 @@
 
 [shortcut]
 
-https://www.youtube.com/watch?v=aGSKrC7dGcY Depeche Mode - Enjoy The Silence (Official Video)
+https://www.youtube.com/watch?v=aGSKrC7dGcY  
+Depeche Mode - Enjoy The Silence  
+https://music.yandex.ru/album/817921/track/7820302
 
 [/shortcut]
 
@@ -73,7 +77,6 @@ https://music.yandex.ru/album/3258042/track/27237141
 https://music.yandex.ru/album/3708820/track/14574241  
 https://music.yandex.ru/album/29346204/track/121783296
 
-
 https://www.youtube.com/watch?v=XZpGMaLB_Ww  
 Linkin Park - Soldiers (2023) Music Video
 
@@ -86,22 +89,17 @@ Vivaldi - Four Seasons (Winter)
 https://music.yandex.ru/album/132641/track/1238468  
 https://music.yandex.ru/album/407505/track/3654556
 
-https://www.youtube.com/watch?v=kn1gcjuhlhg  
-HAUSER - Adagio (Albinoni)  
-https://music.yandex.ru/album/118436/track/1045874
-
-https://www.youtube.com/watch?v=kn1gcjuhlhg  
-HAUSER - Adagio (Albinoni)
-
-https://www.youtube.com/watch?v=5kfPCxXZPdA  
-Баста - На заре  
-https://music.yandex.ru/album/8895370/track/58540937
-
-https://www.youtube.com/watch?v=od5M5g42SSs Waltzes
-
 https://www.youtube.com/watch?v=Lli99OmkPwM  
 Metallica - Nothing Else Matters  
 https://music.yandex.ru/album/4766/track/57730
+
+[/shortcut]
+
+
+
+# Мой ласковый и нежный зверь. Вальс
+
+[shortcut]
 
 https://www.youtube.com/watch?v=gdwvaGluY3k  
 Евгений Дога.Вальс.Мой ласковый и нежный зверь.  
@@ -111,15 +109,41 @@ https://music.yandex.ru/album/12133299/track/21719115
 https://www.youtube.com/watch?v=cO2LVCezcug  
 Евгений Дога. Вальс из к/ф"Мой ласковый и нежный зверь" / Радио "Орфей"  
 
-
 https://www.youtube.com/watch?v=fGvTJ583xzQ  
 Вальс (из кинофильма "Мой ласковый и нежный зверь")
 	
 https://www.youtube.com/watch?v=ftpL1YAO1v4  
 Евгений Дога - Вальс (GloriaMusicVideo)
-	
+
+https://www.youtube.com/watch?v=od5M5g42SSs  
+Waltzes
+
 [/shortcut]
 
+
+# На заре
+
+[shortcut]
+
+https://www.youtube.com/watch?v=5kfPCxXZPdA  
+Баста - На заре  
+https://music.yandex.ru/album/8895370/track/58540937
+
+[/shortcut]
+
+
+# Adagio
+
+[shortcut]
+
+https://www.youtube.com/watch?v=kn1gcjuhlhg  
+HAUSER - Adagio (Albinoni)  
+https://music.yandex.ru/album/118436/track/1045874
+
+https://www.youtube.com/watch?v=kn1gcjuhlhg  
+HAUSER - Adagio (Albinoni)
+
+[/shortcut]
 
 
 
