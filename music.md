@@ -116,13 +116,11 @@ ETC
 
 [shortcut]
 
+https://www.youtube.com/watch?v=vVWgshmZl6E  
+Ты не один  
 
-https://www.youtube.com/watch?v=vVWgshmZl6E
-Ты не один
-
-https://www.youtube.com/watch?v=R3auySNkAEs
-Ренарс Кауперс - Ты не один
-
+https://www.youtube.com/watch?v=R3auySNkAEs  
+Ренарс Кауперс - Ты не один  
 
 [/shortcut]
 
@@ -143,13 +141,13 @@ https://www.youtube.com/watch?v=cO2LVCezcug
 Евгений Дога. Вальс из к/ф"Мой ласковый и нежный зверь" / Радио "Орфей"  
 
 https://www.youtube.com/watch?v=fGvTJ583xzQ  
-Вальс (из кинофильма "Мой ласковый и нежный зверь")
+Вальс (из кинофильма "Мой ласковый и нежный зверь")  
 	
 https://www.youtube.com/watch?v=ftpL1YAO1v4  
 Евгений Дога - Вальс (GloriaMusicVideo)
 
 https://www.youtube.com/watch?v=od5M5g42SSs  
-Waltzes
+Waltzes  
 
 [/shortcut]
 
@@ -161,26 +159,24 @@ Waltzes
 
 [shortcut]
 
+https://www.youtube.com/watch?v=tUBVEKzsZ-k  
+Альянс - На заре (1987)  
 
-https://www.youtube.com/watch?v=tUBVEKzsZ-k
-Альянс - На заре (1987)
+https://www.youtube.com/watch?v=AaAvxqfhdiI  
+Группа Альянс "На заре" (1987)  
 
+https://www.youtube.com/watch?v=oRrBAei0Xd0  
+На заре - Гришковец и Бигуди  
 
-https://www.youtube.com/watch?v=AaAvxqfhdiI
-Группа Альянс "На заре" (1987)
+https://www.youtube.com/watch?v=j7nxbRu1Jfc  
+Альянс - На Заре Авторадио 2019  
 
-https://www.youtube.com/watch?v=oRrBAei0Xd0
-На заре - Гришковец и Бигуди
-
-https://www.youtube.com/watch?v=j7nxbRu1Jfc
-Альянс - На Заре Авторадио 2019
-
-https://www.youtube.com/watch?v=79920uH3uR4
-BrainStorm feat. Альянс & Саша Петров – На заре
+https://www.youtube.com/watch?v=79920uH3uR4  
+BrainStorm feat. Альянс & Саша Петров – На заре  
 
 https://www.youtube.com/watch?v=5kfPCxXZPdA  
 Баста - На заре  
-https://music.yandex.ru/album/8895370/track/58540937
+https://music.yandex.ru/album/8895370/track/58540937  
 
 
 [/shortcut]
