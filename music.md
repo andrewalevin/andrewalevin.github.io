@@ -109,6 +109,21 @@ https://music.yandex.ru/album/4766/track/57730
 ETC
 
 
+# На заре
+
+[shortcut]
+
+
+https://www.youtube.com/watch?v=vVWgshmZl6E
+Ты не один
+
+https://www.youtube.com/watch?v=R3auySNkAEs
+Ренарс Кауперс - Ты не один
+
+
+[/shortcut]
+
+
 
 <div id="waltz"></div>
 
@@ -143,9 +158,27 @@ Waltzes
 
 [shortcut]
 
+
+https://www.youtube.com/watch?v=tUBVEKzsZ-k
+Альянс - На заре (1987)
+
+
+https://www.youtube.com/watch?v=AaAvxqfhdiI
+Группа Альянс "На заре" (1987)
+
+https://www.youtube.com/watch?v=oRrBAei0Xd0
+На заре - Гришковец и Бигуди
+
+https://www.youtube.com/watch?v=j7nxbRu1Jfc
+Альянс - На Заре Авторадио 2019
+
+https://www.youtube.com/watch?v=79920uH3uR4
+BrainStorm feat. Альянс & Саша Петров – На заре
+
 https://www.youtube.com/watch?v=5kfPCxXZPdA  
 Баста - На заре  
 https://music.yandex.ru/album/8895370/track/58540937
+
 
 [/shortcut]
 
