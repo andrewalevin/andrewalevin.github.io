@@ -17,6 +17,7 @@
 - [2024](#2024)
 - [2023](#2023)
 - [На заре](#na-zare)
+- [BrainStorm](#brainstorme)
 - [Мой ласковый и нежный зверь](#waltz)
 - [Adagio](#adagio)
 
@@ -109,7 +110,9 @@ https://music.yandex.ru/album/4766/track/57730
 ETC
 
 
-# На заре
+<div id="brainstorm"></div>
+
+# Prāta Vētra / BrainStorm
 
 [shortcut]
 
