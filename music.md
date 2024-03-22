@@ -17,7 +17,7 @@
 - [2024](#2024)
 - [2023](#2023)
 - [На заре](#na-zare)
-- [BrainStorm](#brainstorme)
+- [BrainStorm](#brainstorm)
 - [Мой ласковый и нежный зверь](#waltz)
 - [Adagio](#adagio)
 
