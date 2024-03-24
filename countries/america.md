@@ -2,17 +2,14 @@
 [🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/countries/america.md)
 
 
-# 🇺🇸 USA
+- [# 🇦🇷 Argentina](argentina)
+- [# 🇲🇽 Mexico](mexico)
+- [# 🇨🇦 Canada](canada)
+- [# 🇺🇸 USA](usa)
 
 
 
-# 🇨🇦 Canada
-
-
-
-# 🇲🇽 Mexico
-
-
+<div id="argentina"></div>
 
 # 🇦🇷 Argentina
 
@@ -23,6 +20,11 @@
 
 
 # 🇧🇷 Brazil
+
+
+<div id="canada"></div>
+
+# 🇨🇦 Canada
 
 
 
@@ -61,7 +63,7 @@
 # 🇺🇾 Uruguay
 
 
-============================================
+---
 
 
 # 🇻🇪 Venezuela
@@ -139,6 +141,13 @@
 
 
 
+
+<div id="mexico"></div>
+
+# 🇲🇽 Mexico
+
+
+
 # 🇯🇲 Jamaica
 
 
@@ -192,6 +201,13 @@
 
 
 # 🇹🇹 Trinidad & Tobago
+
+
+
+
+<div id="usa"></div>
+
+# 🇺🇸 USA
 
 
 
