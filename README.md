@@ -55,3 +55,46 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 [layout](layout/)
 
 [github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
+
+
+
+---
+
+
+
+### [📚 Мои Книги](/books/)
+
+
+### [📗🛍 Книжные магазины](bookstores)
+
+
+### [📖📇 Книжные Издательства](publishers)
+
+
+### 🎥 Movies and TV Series
+
+- [movies/](movies/)
+
+### 🎸 Music
+
+- [music](music)
+
+
+### 🎥 YouTube
+
+- [youtube](youtube)
+
+### 🗺️ Maps
+
+- [/maps](/maps/)
+
+
+### 🌎 Countries
+
+- [/countries](/countries/)
+
+
+
+### Авторы
+
+[authors](authors/)
