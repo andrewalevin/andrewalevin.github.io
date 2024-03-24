@@ -9,6 +9,14 @@
 
 
 
+[https://www.youtube.com/@Glazychev](https://www.youtube.com/@Glazychev)
 
-https://www.youtube.com/@Glazychev
+
+
+[sh-row-ytb]
+
+https://www.youtube.com/watch?v=66iVC_ITejA  
+Глазычев В.Л.: Почему "хрущёвки" непригодны для жизни 
+
+[/sh-row-ytb]
 
