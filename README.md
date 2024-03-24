@@ -41,7 +41,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [🌎 &nbsp;    Countries](/countries/)
 
 
-### [🧞‍♀️🧚‍♂️ &nbsp;    Авторы](authors/)
+### [🧞‍♀️ &nbsp;    Авторы](authors/)
 
 
 ### [📐 &nbsp;      Layout Pages](layout/)
