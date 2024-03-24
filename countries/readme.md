@@ -4,7 +4,8 @@
 
 # 🗺 Countries
 
-- [🌎 Europe](europe)
+- [🏛 Europe](europe)
 - [🌎 America](america)
-- [🌏 Asia](asia)
+- [🌅 Asia](asia)
 - [🌍 Africa](africa)
+- [🏝 Oceania](oceania)
