@@ -6,61 +6,8 @@
 Andrew A. Levin
 
 
-
 Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
-### 📚 Мои Книги
-
-- [/books/](/books/)
-
-
-### 📗🛍 Книжные магазины
-
-- [bookstores](bookstores)
-
-### &nbsp; 📖📇 Книжные Издательства
-
-- [publishers](publishers)
-
-
-### 🎥 Movies and TV Series
-
-- [movies/](movies/)
-
-### 🎸 Music
-
-- [music](music)
-
-
-### 🎥 YouTube
-
-- [youtube](youtube)
-
-### 🗺️ Maps
-
-- [/maps](/maps/)
-
-
-### 🌎 Countries
-
-- [/countries](/countries/)
-
-
-
-### Авторы
-
-[authors](authors/)
-
-
-## 📐 Layout Pages
-
-[layout](layout/)
-
-[github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
-
-
-
----
 
 
 ### [📚    Мои Книги](/books/)
@@ -69,7 +16,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [📗🛍    Книжные магазины](bookstores)
 
 
-### [📖📇 Книжные Издательства](publishers)
+### [📖📇 &nbsp; Книжные Издательства](publishers)
 
 
 ### [🎥 Movies and TV Series](movies/)
