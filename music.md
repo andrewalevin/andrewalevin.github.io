@@ -5,7 +5,7 @@
                 color: initial;
         }
 </style>
-<script src="/shortcutsjs/shortcuts-v3.js" defer></script>
+<script src="/shortcutsjs/shortcuts-v4.js" defer></script>
 
 
  [🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/music.md)
@@ -35,18 +35,18 @@ https://music.yandex.com/album/27254923/track/117099894
 
 ## March 08
 
-[shortcut]
+[sh-row-ytb]
 
 https://www.youtube.com/watch?v=aGSKrC7dGcY  
 Depeche Mode - Enjoy The Silence  
 https://music.yandex.ru/album/817921/track/7820302
 
-[/shortcut]
+[/sh-row-ytb]
 
 
 ## March 07
 
-[shortcut]
+[sh-row-ytb]
 
 https://www.youtube.com/watch?v=ru1LC9lW20Q  
 Ryan Gosling - I'm Just Ken Exclusive
@@ -59,13 +59,13 @@ https://www.youtube.com/watch?v=XlTCDGBedgU
 АХ – Инженер  
 https://music.yandex.ru/album/24003695/track/108682810
 
-[/shortcut]
+[/sh-row-ytb]
 	
 
 
 ## March 06
 
-[shortcut]
+[sh-row-ytb]
 
 https://www.youtube.com/watch?v=IteHHGUy73E  
 Би-2 — Я двигаюсь дальше  
@@ -102,7 +102,7 @@ https://www.youtube.com/watch?v=Lli99OmkPwM
 Metallica - Nothing Else Matters  
 https://music.yandex.ru/album/4766/track/57730
 
-[/shortcut]
+[/sh-row-ytb]
 
 
 # 2023
@@ -114,7 +114,7 @@ ETC
 
 # Prāta Vētra / BrainStorm
 
-[shortcut]
+[sh-row-ytb]
 
 https://www.youtube.com/watch?v=vVWgshmZl6E  
 Ты не один  
@@ -122,7 +122,7 @@ https://www.youtube.com/watch?v=vVWgshmZl6E
 https://www.youtube.com/watch?v=R3auySNkAEs  
 Ренарс Кауперс - Ты не один  
 
-[/shortcut]
+[/sh-row-ytb]
 
 
 
@@ -130,7 +130,7 @@ https://www.youtube.com/watch?v=R3auySNkAEs
 
 # Мой ласковый и нежный зверь
 
-[shortcut]
+[sh-row-ytb]
 
 https://www.youtube.com/watch?v=gdwvaGluY3k  
 Евгений Дога.Вальс. Мой ласковый и нежный зверь.  
@@ -149,7 +149,7 @@ https://www.youtube.com/watch?v=ftpL1YAO1v4
 https://www.youtube.com/watch?v=od5M5g42SSs  
 Waltzes  
 
-[/shortcut]
+[/sh-row-ytb]
 
 
 
@@ -157,7 +157,7 @@ Waltzes
 
 # На заре
 
-[shortcut]
+[sh-row-ytb]
 
 https://www.youtube.com/watch?v=tUBVEKzsZ-k  
 Альянс - На заре (1987)  
@@ -179,19 +179,19 @@ https://www.youtube.com/watch?v=5kfPCxXZPdA
 https://music.yandex.ru/album/8895370/track/58540937  
 
 
-[/shortcut]
+[/sh-row-ytb]
 
 
 
 # Adagio
 
-[shortcut]
+[sh-row-ytb]
 
 https://www.youtube.com/watch?v=kn1gcjuhlhg  
 HAUSER - Adagio (Albinoni)  
 https://music.yandex.ru/album/118436/track/1045874
 
-[/shortcut]
+[/sh-row-ytb]
 
 
 
