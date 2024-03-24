@@ -6,7 +6,7 @@
 <script src="/shortcutsjs/shortcuts-v4.js" defer></script>
 
 
-[🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/new/main)
+[🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/spb.md)
 
 
 
@@ -19,15 +19,15 @@
 [sh-row-ytb]
 
 
-https://www.youtube.com/watch?v=WE3uKK2lBvw
+https://www.youtube.com/watch?v=WE3uKK2lBvw  
 Русский музей. Пейзаж (1982)
 
 
-https://www.youtube.com/watch?v=TKeogGi1XxY
+https://www.youtube.com/watch?v=TKeogGi1XxY  
 Поэзия садов. О красоте и многообразии парков Ленинграда (1985)
 
 
-https://www.youtube.com/watch?v=QFT_jniYbdA
+https://www.youtube.com/watch?v=QFT_jniYbdA  
 Поэзия садов. Рассказывает литературовед Дмитрий Лихачев (1985)
 
 
