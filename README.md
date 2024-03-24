@@ -38,7 +38,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [Авторы](authors/)
 
 
-## [📐&nbsp;      Layout Pages](layout/)
+### [📐&nbsp;      Layout Pages](layout/)
 
 [github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
 
