@@ -61,7 +61,6 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ---
 
 
-
 ### [📚 Мои Книги](/books/)
 
 
@@ -71,30 +70,28 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [📖📇 Книжные Издательства](publishers)
 
 
-### 🎥 Movies and TV Series
-
-- [movies/](movies/)
-
-### 🎸 Music
-
-- [music](music)
+### [🎥 Movies and TV Series](movies/)
 
 
-### 🎥 YouTube
-
-- [youtube](youtube)
-
-### 🗺️ Maps
-
-- [/maps](/maps/)
+### [🎸 Music](music)
 
 
-### 🌎 Countries
-
-- [/countries](/countries/)
+### [🎥 YouTube](youtube)
 
 
+### [🗺️ Maps](/maps/)
 
-### Авторы
 
-[authors](authors/)
+### [🌎 Countries](/countries/)
+
+
+### [Авторы](authors/)
+
+
+## [📐 Layout Pages](layout/)
+
+[github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
+
+
+
+
