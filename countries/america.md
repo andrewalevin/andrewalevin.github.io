@@ -65,6 +65,9 @@
 
 ---
 
+![world-map-of-south-and-north-america-with-separation-of-panama-canal-latin-american-countries-in-focus-2RTEGTR](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/10a4ca7f-ee27-44e5-af28-f20d815bdbfa)
+
+
 
 # 🇻🇪 Venezuela
 
