@@ -36,22 +36,22 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 ### 🗺️ Maps
 
-- [/maps/](/maps/)
+- [/maps](/maps/)
 
 
 ### 🌎 Countries
 
-- [/countries/](/countries/)
+- [/countries](/countries/)
 
 
 
 ### Авторы
 
-[authors/](authors/)
+[authors](authors/)
 
 
 ## 📐 Layout Pages
 
-[layout/](layout/)
+[layout](layout/)
 
 [github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
