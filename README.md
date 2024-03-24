@@ -2,7 +2,7 @@
 
 [🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/README.md)
 
-<h1>👋 andrewalevin.github.io</h1>
+# 👋 andrewalevin.github.io
 
 Andrew A. Levin
 
