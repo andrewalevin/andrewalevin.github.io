@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=b4h6DCEgq4M
 
 
 
-### Путешествие по Москве
+## Путешествие по Москве
 
 
 ![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/74812a97-b27c-44ea-b53e-55f8a32840f3)
@@ -173,13 +173,9 @@ https://www.youtube.com/watch?v=0eCrCbSiG80
 
 
 
-
-
-### Абрамцево
-
+## Абрамцево
 
 [sh-row-ytb]
-
 
 https://www.youtube.com/watch?v=U6aApdTOHpI  
 Осень в Абрамцево (1977)
@@ -200,13 +196,11 @@ https://www.youtube.com/watch?v=4w6lHroH7vo
 https://www.youtube.com/watch?v=VCMUj8uGEdo  
 Абрамцево. Савва Мамонтов (1991)
 
-
 [/sh-row-ytb]
 
 
 
-### Другие Места
-
+## Другие Места
 
 [sh-row-ytb]
 
@@ -224,7 +218,6 @@ https://www.youtube.com/watch?v=iZ3EUSL5ThE
 
 https://www.youtube.com/watch?v=FqBcwzCf4JE  
 Дачное Подмосковье. Новости. Эфир 20 мая 1977
-
 
 [/sh-row-ytb]
 
