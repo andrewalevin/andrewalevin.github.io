@@ -20,7 +20,7 @@
 
 
 
-# Замечательные старые видео о Москве
+## Замечательные старые видео о Москве
 
 
 [sh-row-ytb]
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=AoA9nC38shA
 
 
 
-## Клуб путешественников
+### Клуб путешественников
 
 
 [sh-row-ytb]
@@ -184,7 +184,7 @@ https://www.youtube.com/watch?v=0eCrCbSiG80
 
 
 
-# Абрамцево
+### Абрамцево
 
 
 [sh-row-ytb]
@@ -214,7 +214,7 @@ https://www.youtube.com/watch?v=VCMUj8uGEdo
 
 
 
-# Другие Места
+### Другие Места
 
 
 [sh-row-ytb]
