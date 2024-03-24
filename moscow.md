@@ -32,15 +32,6 @@ https://www.youtube.com/watch?v=AoA9nC38shA
 Лето в Москве (1976)
 
 
-[/sh-row-ytb]
-
-
-
-### Клуб путешественников
-
-
-[sh-row-ytb]
-
 https://www.youtube.com/watch?v=b4h6DCEgq4M  
 Клуб путешественников. Замоскворечье (1986)
 
@@ -48,14 +39,14 @@ https://www.youtube.com/watch?v=b4h6DCEgq4M
 
 
 
-![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/74812a97-b27c-44ea-b53e-55f8a32840f3)
-
-
-
 ### Путешествие по Москве
 
 
-https://www.youtube.com/playlist?list=PLsnhLiAAwdYbOgyBhjMgLPgjuBXTajfMP
+![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/74812a97-b27c-44ea-b53e-55f8a32840f3)
+
+Плейлист
+
+[https://www.youtube.com/playlist?list=PLsnhLiAAwdYbOgyBhjMgLPgjuBXTajfMP](https://www.youtube.com/playlist?list=PLsnhLiAAwdYbOgyBhjMgLPgjuBXTajfMP)
 
 
 [sh-row-ytb]
