@@ -14,31 +14,31 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [📚 &nbsp;    Мои Книги](/books/)
 
 
-### [📗🛍 &nbsp;   Книжные магазины](bookstores)
+### [📗🛍 &nbsp;    Книжные магазины](bookstores)
 
 
-### [📖📇 &nbsp;   Книжные Издательства](publishers)
+### [📖📇 &nbsp;    Книжные Издательства](publishers)
 
 
 ### [🎥 &nbsp;    Movies and TV Series](movies/)
 
 
-### [🎸 &nbsp;     Music](music)
+### [🎸 &nbsp;    Music](music)
 
 
-### [🎥 &nbsp;     YouTube](youtube)
+### [🎥 &nbsp;    YouTube](youtube)
 
 
-### [🗺️ &nbsp;     Maps](/maps/)
+### [🗺️ &nbsp;    Maps](/maps/)
 
 
 ### [🌎 &nbsp;    Countries](/countries/)
 
 
-### [Авторы](authors/)
+### [🧞‍♀️🧚‍♂️ &nbsp;    Авторы](authors/)
 
 
-### [📐&nbsp;      Layout Pages](layout/)
+### [📐 &nbsp;      Layout Pages](layout/)
 
 [github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
 
