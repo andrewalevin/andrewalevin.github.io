@@ -9,7 +9,7 @@
 
 
 
-# Authors
+# 🎓 Авторы
 
 Authors
 
