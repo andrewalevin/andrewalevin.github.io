@@ -17,11 +17,39 @@
 
 
 
-## Замечательные старые видео о Москве
+
+
+
+# Замечательные старые видео о Москве
+
+
+[sh-row-ytb]
+
+https://www.youtube.com/watch?v=l5hLKSgAUvo
+Московское утро (1985)
+
+https://www.youtube.com/watch?v=AoA9nC38shA
+Лето в Москве (1976)
+
+
+[/sh-row-ytb]
+
+
+
+## Клуб путешественников
+
+
+[sh-row-ytb]
+
+https://www.youtube.com/watch?v=b4h6DCEgq4M
+Клуб путешественников. Замоскворечье (1986)
+
+[/sh-row-ytb]
 
 
 
 ![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/74812a97-b27c-44ea-b53e-55f8a32840f3)
+
 
 
 ### Путешествие по Москве
@@ -156,6 +184,80 @@ https://www.youtube.com/watch?v=0eCrCbSiG80
 
 
 
+# Абрамцево
+
+
+[sh-row-ytb]
+
+
+https://www.youtube.com/watch?v=U6aApdTOHpI
+Осень в Абрамцево (1977)
+
+https://www.youtube.com/watch?v=rNxaPQxuClY
+Сказочная усадьба под Москвой - музей-усадьба Абрамцево (1977)
+
+
+https://www.youtube.com/watch?v=sp4EFv8CI4s
+Абрамцево. Видовой фильм (1972)
+
+
+https://www.youtube.com/watch?v=4w6lHroH7vo
+Сказочное Абрамцево (1977)
+
+
+https://www.youtube.com/watch?v=VCMUj8uGEdo
+Абрамцево. Савва Мамонтов (1991)
+
+
+
+[/sh-row-ytb]
+
+
+
+# Другие Места
+
+
+[sh-row-ytb]
+
+https://www.youtube.com/watch?v=ehzbol4dEKA
+Ступив за твой порог... Музей-усадьба Архангельское. Ведущий - актёр Юрий Яковлев (1979)
+
+
+https://www.youtube.com/watch?v=Hlve6fXkLHY
+Музей-усадьба Архангельское. Ведущий - актёр Юрий Яковлев (1979)
+
+
+
+https://www.youtube.com/watch?v=iZ3EUSL5ThE
+Дом над Окой. Музей-усадьба Поленово (1983)
+
+
+https://www.youtube.com/watch?v=FqBcwzCf4JE
+Дачное Подмосковье. Новости. Эфир 20 мая 1977
+
+
+[/sh-row-ytb]
+
+
+
+# СПБ 
+
+[sh-row-ytb]
+
+https://www.youtube.com/watch?v=WE3uKK2lBvw
+Русский музей. Пейзаж (1982)
+
+
+https://www.youtube.com/watch?v=TKeogGi1XxY
+Поэзия садов. О красоте и многообразии парков Ленинграда (1985)
+
+
+https://www.youtube.com/watch?v=QFT_jniYbdA
+Поэзия садов. Рассказывает литературовед Дмитрий Лихачев (1985)
+
+
+
+[/sh-row-ytb]
 
 
 
