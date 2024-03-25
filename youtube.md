@@ -15,10 +15,10 @@
 
 ### misha robaqidze
 
-[https://www.youtube.com/@misharobaqidze](https://www.youtube.com/@misharobaqidze)
-
-
 ![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/de868a1e-7472-403c-b464-a9dcc9eb3672)
+
+
+[https://www.youtube.com/@misharobaqidze](https://www.youtube.com/@misharobaqidze)
 
 
 [sh-row-ytb]
@@ -35,9 +35,9 @@ https://www.youtube.com/watch?v=DSwLZpKZx6s
 
 ### Mark Solonin
 
-[https://www.youtube.com/@Mark_Solonin1941](https://www.youtube.com/@Mark_Solonin1941)
-
 ![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/29167568-8603-4419-83b3-c68ce47febf4)
+
+[https://www.youtube.com/@Mark_Solonin1941](https://www.youtube.com/@Mark_Solonin1941)
 
 
 [sh-row-ytb]
@@ -64,21 +64,23 @@ https://www.youtube.com/watch?v=UqIFvc6tgvc
 
 ### Julia Bolchakova - Elevated
 
-[https://www.youtube.com/@Aleutie](https://www.youtube.com/@Aleutie)
-
 ![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/8fc0b5f5-151e-4d56-86ea-25c19fc932fb)
+
+[https://www.youtube.com/@Aleutie](https://www.youtube.com/@Aleutie)
 
 
 [sh-row-ytb]
 
 https://www.youtube.com/watch?v=NJp8XZvAZ2Y
 
-
 [/sh-row-ytb]
 
 
 
 ### Etc
+
+
+
 
 
 
