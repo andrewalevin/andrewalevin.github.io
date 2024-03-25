@@ -1,6 +1,33 @@
- [🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/publishers.md)
+<style>
+	@import url("/utils/css/bootstrap-grid.css");
+	@import url("/utils/css/iframe-youtube.css");
+</style>
+<script src="/shortcutsjs/shortcuts-v4.js" defer></script>
+
+ 
+[🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/andrewalevin.github.io) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/andrewalevin.github.io/edit/main/publishers.md)
 
 # 📕📇 Прекрасные книжные издательства
+
+
+[sh-row-ytb]
+
+### Ad Marginem  
+[https://admarginem.ru/](https://admarginem.ru/)  
+![](https://admarginem.ru/wp-content/uploads/2019/04/logo-2x.png)
+
+
+### Алетейа  
+[https://aletheia.spb.ru/](https://aletheia.spb.ru/)  
+![](https://static.tildacdn.com/tild3236-6235-4434-a339-663062653038/Logo_2_bel__.png)
+
+
+### Владимир Даль  
+[https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/](https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/)  
+![](https://www.gnosisbooks.ru/upload/iblock/79b/79b840a4b0cbcf96f12c2a68260c4104.png)
+
+
+[/sh-row-ytb]
 
 ### Ad Marginem
 
