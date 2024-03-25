@@ -12,7 +12,7 @@
 UPD9856
 
 
-[sh-row-ytb]
+[sh-row3]
 
 Ad Marginem  
 [https://admarginem.ru/](https://admarginem.ru/)  
@@ -28,7 +28,7 @@ Ad Marginem
 [https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/](https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/)  
 ![](https://www.gnosisbooks.ru/upload/iblock/79b/79b840a4b0cbcf96f12c2a68260c4104.png)
 
-[/sh-row-ytb]
+[/sh-row3]
 
 
 
