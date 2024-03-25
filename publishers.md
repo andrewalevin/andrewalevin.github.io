@@ -14,22 +14,24 @@ UPD9856
 
 [sh-row-ytb]
 
-### Ad Marginem  
+Ad Marginem  
 [https://admarginem.ru/](https://admarginem.ru/)  
 ![](https://admarginem.ru/wp-content/uploads/2019/04/logo-2x.png)
 
 
-### Алетейа  
+Алетейа  
 [https://aletheia.spb.ru/](https://aletheia.spb.ru/)  
 ![](https://static.tildacdn.com/tild3236-6235-4434-a339-663062653038/Logo_2_bel__.png)
 
 
-### Владимир Даль  
+Владимир Даль  
 [https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/](https://www.gnosisbooks.ru/partners/izdatelstvo-vladimir-dal/)  
 ![](https://www.gnosisbooks.ru/upload/iblock/79b/79b840a4b0cbcf96f12c2a68260c4104.png)
 
-
 [/sh-row-ytb]
+
+
+
 
 ### Ad Marginem
 
