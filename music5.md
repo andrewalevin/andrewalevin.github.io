@@ -34,10 +34,8 @@ https://music.yandex.com/album/27254923/track/117099894
 
 [sh-ytb-rows3]
 
-https://www.youtube.com/watch?v=aGSKrC7dGcY
-
-Depeche Mode - Enjoy The Silence
-
+https://www.youtube.com/watch?v=aGSKrC7dGcY  
+Depeche Mode - Enjoy The Silence  
 https://music.yandex.ru/album/817921/track/7820302
 
 [/sh-ytb-rows3]
