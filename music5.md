@@ -35,7 +35,9 @@ https://music.yandex.com/album/27254923/track/117099894
 [sh-ytb-rows3]
 
 https://www.youtube.com/watch?v=aGSKrC7dGcY
+
 Depeche Mode - Enjoy The Silence
+
 https://music.yandex.ru/album/817921/track/7820302
 
 [/sh-ytb-rows3]
@@ -46,26 +48,44 @@ https://music.yandex.ru/album/817921/track/7820302
 sh-row
 
 sh-col-3
+
 sh-ytb
+
 https://www.youtube.com/watch?v=ru1LC9lW20Q
+
 Ryan Gosling - I'm Just Ken Exclusive
+
 /sh-ytb
+
 /sh-col-3
 
 sh-col-3
+
+
 sh-ytb
+
 https://www.youtube.com/watch?v=FTQbiNvZqaY
+
 Toto - Africa
+
 https://music.yandex.ru/album/16899660/track/628706
+
 /sh-ytb
+
 /sh-col-3
 
 sh-col-3
+
 sh-ytb
+
 https://www.youtube.com/watch?v=XlTCDGBedgU
+
 АХ – Инженер
+
 https://music.yandex.ru/album/24003695/track/108682810
+
 /sh-ytb
+
 /sh-col-3
 
 /sh-row
