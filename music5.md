@@ -43,20 +43,32 @@ https://music.yandex.ru/album/817921/track/7820302
 
 ## March 07
 
-[sh-ytb-rows3]
+sh-row
 
+sh-col-3
+sh-ytb
 https://www.youtube.com/watch?v=ru1LC9lW20Q  
 Ryan Gosling - I'm Just Ken Exclusive
+/sh-ytb
+/sh-col-3
 
+sh-col-3
+sh-ytb
 https://www.youtube.com/watch?v=FTQbiNvZqaY  
 Toto - Africa    
 https://music.yandex.ru/album/16899660/track/628706
+/sh-ytb
+/sh-col-3
 
+sh-col-3
+sh-ytb
 https://www.youtube.com/watch?v=XlTCDGBedgU  
 АХ – Инженер  
 https://music.yandex.ru/album/24003695/track/108682810
+/sh-ytb
+/sh-col-3
 
-[/sh-ytb-rows3]
+/sh-row
 	
 
 
