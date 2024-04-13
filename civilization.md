@@ -123,43 +123,43 @@ Heroic Materialism - Part 13 of 13
 [sh-row-ytb]
 
 https://youtu.be/b2lmlDp2WGg?si=H0rvfI6t8gnllHv0  
-Legendado - Civilisation by Kenneth Clark - 1 of 13  
+Legendado - 1 of 13  
 
 https://www.youtube.com/watch?v=MDu9AhrHYcE  
-The Great Thaw - Civilisation by Kenneth Clark - 2 of 13  
+The Great Thaw - 2 of 13  
 
 https://www.youtube.com/watch?v=O-EnguOvL64  
-Romance and Reality - Civilisation by Kenneth Clark - 3 of 13  
+Romance and Reality - 3 of 13  
 
-Man The Measure of all Things - Civilisation by Kenneth Clark - 4 of 13  
+Man The Measure of all Things - 4 of 13  
 https://www.youtube.com/watch?v=Eic6-mzlid0
 
 https://www.youtube.com/watch?v=H6GTAAhKzuo  
-The Hero as Artist - Civilisation by Kenneth Clark - 5 of 13  
+The Hero as Artist - 5 of 13  
 
 https://www.youtube.com/watch?v=CVRna64Okq4  
-Protest and Communication - Civilisation by Kenneth Clark - 6 of 13  
+Protest and Communication - 6 of 13  
 
 https://www.youtube.com/watch?v=P8rVamkK8Kk  
-Grandeur and Obedience - Civilisation by Kenneth Clark - 7 of 13  
+Grandeur and Obedience - 7 of 13  
 
 https://www.youtube.com/watch?v=UO74ZaoYZcQ  
-The Light of Experience - Civilisation by Kenneth Clark - 8 of 13  
+The Light of Experience - 8 of 13  
 
 https://www.youtube.com/watch?v=VBOwrc0uc7k  
-The Pursuit of Happiness - Civilisation by Kenneth Clark - 9 of 13  
+The Pursuit of Happiness - 9 of 13  
 
 https://www.youtube.com/watch?v=c1zRoMcZuTo  
-The Smile of Reason - Civilisation by Kenneth Clark - 10 of 13  
+The Smile of Reason - 10 of 13  
 
 https://www.youtube.com/watch?v=Eb-4eiieXtg  
-The Worship of Nature - Civilisation by Kenneth Clark - 11 of 13  
+The Worship of Nature - 11 of 13  
 
 https://www.youtube.com/watch?v=9ALLdUk0fY4  
-The Fallacies of Hope - Civilisation by Kenneth Clark - 12 of 13  
+The Fallacies of Hope - 12 of 13  
 
 https://www.youtube.com/watch?v=VIHSpleFpkg  
-Heroic Materialism - Civilisation by Kenneth Clark - 13 of 13  
+Heroic Materialism - 13 of 13  
 
 
 [/sh-row-ytb]
@@ -174,6 +174,9 @@ The final moments of the final episode of Civilisation by Kenneth Clark
 
 https://www.youtube.com/watch?v=lUwR_h1xqUw  
 Civilisation, by Kenneth Clark. Ch. 14: David Attenborough's Interview
+
+https://www.youtube.com/watch?v=5T7QqabluHA  
+Kenneth Clark: In the Beginning (1975)
 
 [/sh-row-ytb]
 
