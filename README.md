@@ -50,7 +50,8 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [&nbsp;      Разные страницы]()
 
 - [🏛 Цивилизация c Кеннетом Кларком](civilization)
-- [Аверинцев Сергей Сергеевич](averintsev)
+- [Сергей Сергеевич Аверинцев](averintsev)
+- [А. Ф. Лосев](losev)
 
 
 [github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
