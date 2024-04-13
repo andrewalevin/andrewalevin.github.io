@@ -46,6 +46,12 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 ### [📐 &nbsp;      Layout Pages](layout/)
 
+
+### [🥗 &nbsp;      Разные страницы]()
+
+- [🏛 Цивилизация c Кеннетом Кларком](civilization)
+
+
 [github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
 
 
