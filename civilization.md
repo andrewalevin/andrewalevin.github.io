@@ -10,7 +10,7 @@
 
 
 
-# Цивилизация c Кеннетом Маккензи Кларком
+# 🏛 Цивилизация c Кеннетом Маккензи Кларком
 
 
 ![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/3ea9293b-f83f-4b96-a7de-2656b86ff908)
