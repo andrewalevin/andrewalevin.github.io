@@ -54,8 +54,6 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 - [А. Ф. Лосев](losev)
 
 
-[github.com/andrewalevin/layout](https://github.com/andrewalevin/layout)
-
 
 
 
