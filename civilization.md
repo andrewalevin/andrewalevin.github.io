@@ -129,7 +129,8 @@ https://www.youtube.com/watch?v=DMpoGi1MckQ
 Episode 1, The Skin of our Teeth
 
 Legendado - Civilisation by Kenneth Clark - 1 of 13  
-https://www.youtube.com/watch?v=b2lmlDp2WGg
+https://youtu.be/b2lmlDp2WGg?si=H0rvfI6t8gnllHv0
+
 
 The Great Thaw - Civilisation by Kenneth Clark - 2 of 13  
 https://www.youtube.com/watch?v=MDu9AhrHYcE
