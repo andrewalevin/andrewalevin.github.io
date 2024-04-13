@@ -13,7 +13,8 @@
 # 🏛 Цивилизация c Кеннетом Маккензи Кларком
 
 
-![image](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/3ea9293b-f83f-4b96-a7de-2656b86ff908)
+![Кларк,_Кеннет_Маккензи](https://github.com/andrewalevin/andrewalevin.github.io/assets/155118488/20b508af-7d6f-47ab-8599-0da5afe3791b)
+
 
 
 [https://ru.wikipedia.org/wiki/BBC_Цивилизация](https://ru.wikipedia.org/wiki/BBC_%D0%A6%D0%B8%D0%B2%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
