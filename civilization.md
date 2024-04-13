@@ -118,12 +118,13 @@ Heroic Materialism - Part 13 of 13
 [/sh-row-ytb]
 
 
+
+
+
 [https://www.youtube.com/playlist?list=PL2JFIsCzvZsyPG_EQso-_Ehc4-YzFVbR0](https://www.youtube.com/playlist?list=PL2JFIsCzvZsyPG_EQso-_Ehc4-YzFVbR0)
 
 
-
 [sh-row-ytb]
-
 
 Legendado - Civilisation by Kenneth Clark - 1 of 13
 https://www.youtube.com/watch?v=b2lmlDp2WGg
