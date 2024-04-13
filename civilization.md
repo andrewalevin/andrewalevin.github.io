@@ -117,62 +117,65 @@ Heroic Materialism - Part 13 of 13
 
 
 
-
-
 [https://www.youtube.com/playlist?list=PL2JFIsCzvZsyPG_EQso-_Ehc4-YzFVbR0](https://www.youtube.com/playlist?list=PL2JFIsCzvZsyPG_EQso-_Ehc4-YzFVbR0)
-
 
 
 [sh-row-ytb]
 
-https://www.youtube.com/watch?v=DMpoGi1MckQ   
-Episode 1, The Skin of our Teeth
-
+https://youtu.be/b2lmlDp2WGg?si=H0rvfI6t8gnllHv0  
 Legendado - Civilisation by Kenneth Clark - 1 of 13  
-https://youtu.be/b2lmlDp2WGg?si=H0rvfI6t8gnllHv0
 
-
+https://www.youtube.com/watch?v=MDu9AhrHYcE  
 The Great Thaw - Civilisation by Kenneth Clark - 2 of 13  
-https://www.youtube.com/watch?v=MDu9AhrHYcE
 
+https://www.youtube.com/watch?v=O-EnguOvL64  
 Romance and Reality - Civilisation by Kenneth Clark - 3 of 13  
-https://www.youtube.com/watch?v=O-EnguOvL64
 
 Man The Measure of all Things - Civilisation by Kenneth Clark - 4 of 13  
 https://www.youtube.com/watch?v=Eic6-mzlid0
 
+https://www.youtube.com/watch?v=H6GTAAhKzuo  
 The Hero as Artist - Civilisation by Kenneth Clark - 5 of 13  
-https://www.youtube.com/watch?v=H6GTAAhKzuo
 
+https://www.youtube.com/watch?v=CVRna64Okq4  
 Protest and Communication - Civilisation by Kenneth Clark - 6 of 13  
-https://www.youtube.com/watch?v=CVRna64Okq4
 
+https://www.youtube.com/watch?v=P8rVamkK8Kk  
 Grandeur and Obedience - Civilisation by Kenneth Clark - 7 of 13  
-https://www.youtube.com/watch?v=P8rVamkK8Kk
 
+https://www.youtube.com/watch?v=UO74ZaoYZcQ  
 The Light of Experience - Civilisation by Kenneth Clark - 8 of 13  
-https://www.youtube.com/watch?v=UO74ZaoYZcQ
 
+https://www.youtube.com/watch?v=VBOwrc0uc7k  
 The Pursuit of Happiness - Civilisation by Kenneth Clark - 9 of 13  
-https://www.youtube.com/watch?v=VBOwrc0uc7k
 
+https://www.youtube.com/watch?v=c1zRoMcZuTo  
 The Smile of Reason - Civilisation by Kenneth Clark - 10 of 13  
-https://www.youtube.com/watch?v=c1zRoMcZuTo
 
+https://www.youtube.com/watch?v=Eb-4eiieXtg  
 The Worship of Nature - Civilisation by Kenneth Clark - 11 of 13  
-https://www.youtube.com/watch?v=Eb-4eiieXtg
 
+https://www.youtube.com/watch?v=9ALLdUk0fY4  
 The Fallacies of Hope - Civilisation by Kenneth Clark - 12 of 13  
-https://www.youtube.com/watch?v=9ALLdUk0fY4
 
+https://www.youtube.com/watch?v=VIHSpleFpkg  
 Heroic Materialism - Civilisation by Kenneth Clark - 13 of 13  
-https://www.youtube.com/watch?v=VIHSpleFpkg
+
 
 [/sh-row-ytb]
 
 
+### Etc
 
-End
+[sh-row-ytb]
+
+https://www.youtube.com/watch?v=7XofkKmPrYA  
+The final moments of the final episode of Civilisation by Kenneth Clark
+
+https://www.youtube.com/watch?v=lUwR_h1xqUw  
+Civilisation, by Kenneth Clark. Ch. 14: David Attenborough's Interview
+
+[/sh-row-ytb]
 
 
 
