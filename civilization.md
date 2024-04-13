@@ -70,51 +70,6 @@ https://www.youtube.com/watch?v=LsvbXhd4xfg
 [/sh-row-ytb]
 
 
-## Last
-
-[sh-row-ytb]
-
-Legendado - Civilisation by Kenneth Clark - 1 of 13  
-https://www.youtube.com/watch?v=b2lmlDp2WGg
-
-The Great Thaw - Civilisation by Kenneth Clark - 2 of 13  
-https://www.youtube.com/watch?v=MDu9AhrHYcE
-
-Romance and Reality - Civilisation by Kenneth Clark - 3 of 13  
-https://www.youtube.com/watch?v=O-EnguOvL64
-
-Man The Measure of all Things - Civilisation by Kenneth Clark - 4 of 13  
-https://www.youtube.com/watch?v=Eic6-mzlid0
-
-The Hero as Artist - Civilisation by Kenneth Clark - 5 of 13  
-https://www.youtube.com/watch?v=H6GTAAhKzuo
-
-Protest and Communication - Civilisation by Kenneth Clark - 6 of 13  
-https://www.youtube.com/watch?v=CVRna64Okq4
-
-Grandeur and Obedience - Civilisation by Kenneth Clark - 7 of 13  
-https://www.youtube.com/watch?v=P8rVamkK8Kk
-
-The Light of Experience - Civilisation by Kenneth Clark - 8 of 13  
-https://www.youtube.com/watch?v=UO74ZaoYZcQ
-
-The Pursuit of Happiness - Civilisation by Kenneth Clark - 9 of 13  
-https://www.youtube.com/watch?v=VBOwrc0uc7k
-
-The Smile of Reason - Civilisation by Kenneth Clark - 10 of 13  
-https://www.youtube.com/watch?v=c1zRoMcZuTo
-
-The Worship of Nature - Civilisation by Kenneth Clark - 11 of 13  
-https://www.youtube.com/watch?v=Eb-4eiieXtg
-
-The Fallacies of Hope - Civilisation by Kenneth Clark - 12 of 13  
-https://www.youtube.com/watch?v=9ALLdUk0fY4
-
-Heroic Materialism - Civilisation by Kenneth Clark - 13 of 13  
-https://www.youtube.com/watch?v=VIHSpleFpkg
-
-[/sh-row-ytb]
-
 ### Civilisation (1969) Parts 1-13
 
 [https://www.youtube.com/playlist?list=PL4dFk7XpP5b5R0c_7kCLYdvcdE-nVVaMa](https://www.youtube.com/playlist?list=PL4dFk7XpP5b5R0c_7kCLYdvcdE-nVVaMa)
@@ -167,6 +122,52 @@ Heroic Materialism - Part 13 of 13
 [https://www.youtube.com/playlist?list=PL2JFIsCzvZsyPG_EQso-_Ehc4-YzFVbR0](https://www.youtube.com/playlist?list=PL2JFIsCzvZsyPG_EQso-_Ehc4-YzFVbR0)
 
 
+
+[sh-row-ytb]
+
+https://www.youtube.com/watch?v=DMpoGi1MckQ   
+Episode 1, The Skin of our Teeth
+
+Legendado - Civilisation by Kenneth Clark - 1 of 13  
+https://www.youtube.com/watch?v=b2lmlDp2WGg
+
+The Great Thaw - Civilisation by Kenneth Clark - 2 of 13  
+https://www.youtube.com/watch?v=MDu9AhrHYcE
+
+Romance and Reality - Civilisation by Kenneth Clark - 3 of 13  
+https://www.youtube.com/watch?v=O-EnguOvL64
+
+Man The Measure of all Things - Civilisation by Kenneth Clark - 4 of 13  
+https://www.youtube.com/watch?v=Eic6-mzlid0
+
+The Hero as Artist - Civilisation by Kenneth Clark - 5 of 13  
+https://www.youtube.com/watch?v=H6GTAAhKzuo
+
+Protest and Communication - Civilisation by Kenneth Clark - 6 of 13  
+https://www.youtube.com/watch?v=CVRna64Okq4
+
+Grandeur and Obedience - Civilisation by Kenneth Clark - 7 of 13  
+https://www.youtube.com/watch?v=P8rVamkK8Kk
+
+The Light of Experience - Civilisation by Kenneth Clark - 8 of 13  
+https://www.youtube.com/watch?v=UO74ZaoYZcQ
+
+The Pursuit of Happiness - Civilisation by Kenneth Clark - 9 of 13  
+https://www.youtube.com/watch?v=VBOwrc0uc7k
+
+The Smile of Reason - Civilisation by Kenneth Clark - 10 of 13  
+https://www.youtube.com/watch?v=c1zRoMcZuTo
+
+The Worship of Nature - Civilisation by Kenneth Clark - 11 of 13  
+https://www.youtube.com/watch?v=Eb-4eiieXtg
+
+The Fallacies of Hope - Civilisation by Kenneth Clark - 12 of 13  
+https://www.youtube.com/watch?v=9ALLdUk0fY4
+
+Heroic Materialism - Civilisation by Kenneth Clark - 13 of 13  
+https://www.youtube.com/watch?v=VIHSpleFpkg
+
+[/sh-row-ytb]
 
 
 
