@@ -29,43 +29,43 @@ https://www.youtube.com/watch?v=jh0MRiC_QWs
 
 [sh-row-ytb]
 
-https://www.youtube.com/watch?v=dtdgWy24EqI
+https://www.youtube.com/watch?v=dtdgWy24EqI  
 Сила. С.С. Аверинцев об А.Ф. Лосеве
 
-https://www.youtube.com/watch?v=dB5437oeAH8
+https://www.youtube.com/watch?v=dB5437oeAH8  
 Интервью о.Иоанна Привалова у Сергея Сергеевича Аверинцева
 
-https://www.youtube.com/watch?v=T0p5HlOe0Xw
+https://www.youtube.com/watch?v=T0p5HlOe0Xw  
 Сергей Аверинцев — Пайдейя
 
-https://www.youtube.com/watch?v=uch-gFx9TVg
+https://www.youtube.com/watch?v=uch-gFx9TVg  
 Свидетельство красотой Сергей Аверинцев Лентелефильм, 1990
 
-https://www.youtube.com/watch?v=EJHtPVnUmkA
+https://www.youtube.com/watch?v=EJHtPVnUmkA  
 Вечер памяти С.С. Аверинцева
 
-https://www.youtube.com/watch?v=MDZa8Tb5ICw
+https://www.youtube.com/watch?v=MDZa8Tb5ICw  
 Аверинцев С.С. Христианство в истории европейской культуры. Ч.1.
 
-https://www.youtube.com/watch?v=qTFYLiK7_S8
+https://www.youtube.com/watch?v=qTFYLiK7_S8  
 Аверинцев С.С. Христианство в истории европейской культуры. Ч.2
 
-https://www.youtube.com/watch?v=vEjwH71bsfU
+https://www.youtube.com/watch?v=vEjwH71bsfU  
 Аверинцев С.С. Христианство в истории европейской культуры. Ч.3
 
-https://www.youtube.com/watch?v=2tJceyuiSEU
+https://www.youtube.com/watch?v=2tJceyuiSEU  
 Аверинцев С.С. Христианство в истории европейской культуры. Ч. 4
 
-https://www.youtube.com/watch?v=gkuqz-bQmts
+https://www.youtube.com/watch?v=gkuqz-bQmts  
 Аверинцев С.С. Христианство в истории европейской культуры. Ч. 5
 
-https://www.youtube.com/watch?v=f62H_shoiKg
+https://www.youtube.com/watch?v=f62H_shoiKg  
 Аверинцев С.С. Ч.6 (окончание). Библер В.С. Школа диалога культур. Ч.1
 
-https://www.youtube.com/watch?v=gjmz-nYjy-w
+https://www.youtube.com/watch?v=gjmz-nYjy-w  
 С.С. Аверинцев. Проповедь в неделю о Страшном суде.
 
-https://www.youtube.com/watch?v=e5jAV8e-Wn0
+https://www.youtube.com/watch?v=e5jAV8e-Wn0  
 АКАДЕМИК СЕРГЕЙ АВЕРИНЦЕВ. Проповедники
 
 [/sh-row-ytb]
@@ -79,9 +79,6 @@ https://www.youtube.com/watch?v=jh0MRiC_QWs
 
 https://www.youtube.com/watch?v=ancFThegFJI  
 Сергей Аверинцев. Встреча
-
-
-
 
 https://www.youtube.com/watch?v=V73FyrS2btw  
 Сергей Аверинцев 60-летие в Доме Журналиста, 1998
