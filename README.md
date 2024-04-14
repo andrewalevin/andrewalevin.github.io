@@ -11,7 +11,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 
 
-### [📚 &nbsp;    Мои Книги](/books/)
+### [📚 &nbsp;    Мои Книги](books)
 
 
 ### [🛍 &nbsp;    Книжные магазины](bookstores)
