@@ -4,7 +4,7 @@
 
 # 👋 andrewalevin.github.io
 
-Andrew A. Levin
+🚴‍♂️ Andrew A. Levin
 
 
 Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
