@@ -52,6 +52,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 - [🏛 Цивилизация c Кеннетом Кларком](civilization)
 - [Сергей Сергеевич Аверинцев](averintsev)
 - [А. Ф. Лосев](losev)
+- [Own Canon](own-canon)
 
 
 
