@@ -28,44 +28,63 @@
 
 [sh-row-ytb]
 
-https://www.youtube.com/watch?v=xN069sbgPg0  
-Епизод 1. На грани выживания
+  
+https://www.youtube.com/watch?v=J5pSzi41E54  
+1. История упадка и разрушения Римской империи. Том 1, Гл. 1-8
 
-https://www.youtube.com/watch?v=CPgAkffRGfAB  
-Эпизод 2. Великая оттепель
 
-https://www.youtube.com/watch?v=Wl3wJeHufU8  
-Эпизод 3. Выдумка и реальность.
+https://www.youtube.com/watch?v=wmDBYXOacCc  
+2. История упадка и разрушения Римской империи. Том 1, Гл. 9-14
 
-https://www.youtube.com/watch?v=KB3Vg_S7nDw  
-Эпизод 4. Человек - мера всех вещей.
 
-https://www.youtube.com/watch?v=GcGaBT2SKrA  
-Эпизод 5. Герой как художник
+https://www.youtube.com/watch?v=tqq3WLutLm4  
+3. История упадка и разрушения Римской империи. Том 2, Гл. 15-18
 
-https://www.youtube.com/watch?v=OZLUDxZWI_U  
-Эпизод 6. Протест и коммуникация
 
-https://www.youtube.com/watch?v=KhBqU0APxGw  
-Эпизод 7. Величие и смирение
+https://www.youtube.com/watch?v=jsURkNBDKp8  
+4. История упадка и разрушения Римской империи. Том 2, Гл. 19-23
 
-https://www.youtube.com/watch?v=X7U2RnutF3o  
-Эпизод 8. Свет опыта
 
-https://www.youtube.com/watch?v=DJkVd4MDZ6A  
-Эпизод 9. Стремление к счастью
+https://www.youtube.com/watch?v=PmHwKIum4j4  
+5. История упадка и разрушения Римской империи. Том 3, Гл. 24-27
 
-https://www.youtube.com/watch?v=GuGQZOUYCnY  
-Эпизод 10. Улыбка разума
 
-https://www.youtube.com/watch?v=r44M8Z79KKs  
-Эпизод 11. Поклонение природе
+https://www.youtube.com/watch?v=eWJwcFVwMnI  
+6. История упадка и разрушения Римской империи. Том 3, Гл. 28-34
 
-https://www.youtube.com/watch?v=CpwddgHAMAA  
-Серия 12. Обманчивость надежды
 
-https://www.youtube.com/watch?v=LsvbXhd4xfg  
-Эпизод 13. Героический материализм
+https://www.youtube.com/watch?v=iI0XUWN_KsI  
+7. История упадка и разрушения Римской империи. Том 4, Гл. 35-39
+
+
+https://www.youtube.com/watch?v=wpSlxVCsfZk  
+8. История упадка и разрушения Римской империи. Том 4, Гл. 40-43
+
+
+https://www.youtube.com/watch?v=GMrh_KpRpts  
+9. История упадка и разрушения Римской империи. Том 5, Гл. 44-47
+
+
+https://www.youtube.com/watch?v=eORS5nVMRtM  
+10. История упадка и разрушения Римской империи. Том 5, Гл. 48-50
+
+
+https://www.youtube.com/watch?v=eiyqAyq6cTM  
+11. История упадка и разрушения Римской империи. Том 6, Гл. 51-54
+
+
+https://www.youtube.com/watch?v=suGqZfH5I6Y  
+12. История упадка и разрушения Римской империи. Том 6, Гл. 55-59
+
+
+https://www.youtube.com/watch?v=FCeS_qeSQMU  
+13. История упадка и разрушения Римской империи. Том 7, Гл. 60-65
+
+
+https://www.youtube.com/watch?v=ZvN_V1B4qDw  
+14. История упадка и разрушения Римской империи. Том 7, Гл. 66-71
+
+
 
 [/sh-row-ytb]
 
