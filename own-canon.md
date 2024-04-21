@@ -27,6 +27,10 @@
   - Одиссея
 
 
+[https://andrewalevin.github.io/audio-books](https://andrewalevin.github.io/audio-books)
+
+[https://andrewalevin.github.io/audio-books/homer-illiada/homer-illiada-p1of2-1-18.m4a](https://andrewalevin.github.io/audio-books/homer-illiada/homer-illiada-p1of2-1-18.m4a)
+
 
 
 ### Том 5
