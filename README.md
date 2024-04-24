@@ -11,7 +11,10 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 
 
-### [📚 &nbsp;    Мои Книги](books)
+### [📚 &nbsp;    Books](books)
+
+
+### [📚 &nbsp;    Long Audio Books](/audio-books)
 
 
 ### [🛍 &nbsp;    Книжные магазины](bookstores)
@@ -52,8 +55,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 - [🏛 Цивилизация c Кеннетом Кларком](civilization)
 - [Сергей Сергеевич Аверинцев](averintsev)
 - [А. Ф. Лосев](losev)
-- [Own Canon](own-canon)
-- [📚 Long Audio Books](/audio-books)
+
 
 
 
