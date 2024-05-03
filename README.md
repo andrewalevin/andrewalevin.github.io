@@ -50,6 +50,9 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [📐 &nbsp;      Layout Pages](layout/)
 
 
+### [🎰 &nbsp;   MacOS Finder Quick Actions Automator](macos-finder-quick-actions-automator/)
+
+
 ### [&nbsp;      Разные страницы]()
 
 - [🏛 Цивилизация c Кеннетом Кларком](civilization)
