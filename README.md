@@ -53,7 +53,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [🎰 &nbsp;   MacOS Finder Quick Actions Automator](macos-finder-quick-actions-automator/)
 
 
-### [🖥 &nbsp;      Bash Practice](bash-practice)
+### [🖥 &nbsp;      Bash Practice](/bash-practice)
 
 
 
