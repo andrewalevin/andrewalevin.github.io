@@ -56,6 +56,12 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [🖥 &nbsp;      Bash Practice](/bash-practice)
 
 
+### [🌳 Звенигород. Исторические поиски](/zvenigorod) (https://github.com/andrewalevin/zvenigorod)
+
+
+### [🏰 Cultural Trips](/cultural-trips) (https://github.com/andrewalevin/cultural-trips)
+
+
 
 ### [&nbsp;      Разные страницы]()
 
