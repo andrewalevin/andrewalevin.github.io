@@ -67,6 +67,15 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 - [👨‍💻 My Adherence to Principles - Приверженность принципам](my-adherence-to-principles.md)
 
 
+### Projects and Repos
+
+- Pypi https://pypi.org/user/andrewlevin/
+- etc
+- #todo
+
+
+
+
 ### [&nbsp;      Разные страницы]()
 
 - [🏛 Цивилизация c Кеннетом Кларком](civilization)
