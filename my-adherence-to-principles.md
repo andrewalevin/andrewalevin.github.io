@@ -3,15 +3,15 @@
 
 ## CS 
 
-Начинаем пробные версии со слова try:
+#### Начинаем пробные версии со слова try:
 
 - tryVosk
 - tryPythonBuild
 - tryNotebook
 
-Эксперементируем 
+#### Эксперементируем 
 
 - expoloreNotebook
 - expoloreTastySweets
 
-- 
+
