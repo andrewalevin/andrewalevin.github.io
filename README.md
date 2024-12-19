@@ -85,7 +85,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
 
 
-[Personalities](personalities.md)
+- [Personalities](personalities.md)
 
 
 
