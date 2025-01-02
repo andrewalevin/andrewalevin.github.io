@@ -67,6 +67,13 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 - [👨‍💻 My Adherence to Principles - Приверженность принципам](my-adherence-to-principles.md)
 
 
+### Analitycs Monitoring
+
+- [Rand Corporation](https://www.rand.org/pubs.html)
+- [McKinsey Global Insights](https://www.mckinsey.com/featured-insights)
+- [McKinsey Global Institute (MGI)](https://www.mckinsey.com/mgi/our-research/all-research)
+
+
 ### Projects and Repos
 
 - Pypi https://pypi.org/user/andrewlevin/
