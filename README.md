@@ -62,6 +62,9 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [🏰 Cultural Trips](/cultural-trips) (https://github.com/andrewalevin/cultural-trips)
 
 
+### [🌄 Journeys](/journeys/) (https://github.com/andrewalevin/journeys)
+
+
 ### Computer Science 
 
 - [👨‍💻 My Adherence to Principles - Приверженность принципам](my-adherence-to-principles.md)
