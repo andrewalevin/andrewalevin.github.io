@@ -62,7 +62,7 @@ Homepage [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 ### [🏰 Cultural Trips](/cultural-trips) (https://github.com/andrewalevin/cultural-trips)
 
 
-### [🌄 Journeys](/journeys/) (https://github.com/andrewalevin/journeys)
+### [🌄 Journeys](/journeys/)
 
 
 ### Computer Science 
